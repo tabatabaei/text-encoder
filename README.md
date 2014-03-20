@@ -58,4 +58,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ==============================
 
 Images
-* "icon.ico" are by me (Misam Saki) and they are released under the terms of the GNU General Public License v3 or later.
+* "icon.ico" and "icon.xcf" are by me (Misam Saki) and they are released under the terms of the GNU General Public License v3 or later.
