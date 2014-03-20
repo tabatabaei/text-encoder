@@ -1,7 +1,7 @@
 Text Encoder
 ==========
 
-Simple Text Encoder By Qt Version 1.0
+Simple Text Encoder By Qt, Version 1.0
 
 Contents
 ==============================
@@ -58,4 +58,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ==============================
 
 Images
-* "logo.ico" image are by me (Misam Saki) and they are released under the terms of the GNU General Public License v3 or later.
+* "logo.ico" are by me (Misam Saki) and they are released under the terms of the GNU General Public License v3 or later.
