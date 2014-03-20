@@ -1,3 +1,13 @@
+/**
+ * The main window library
+ *
+ * @package Text Encoder
+ * @since Text Encoder 1.0
+ * @license GNU General Public License v3 or later
+ * @copyright (C) 2014  Linuxihaa, linuxihaa.ir
+ * @author Misam Saki,  http://misam.ir/
+ */
+
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 

@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * The main window ui describtor file
+ *
+ * @package Text Encoder
+ * @since Text Encoder 1.0
+ * @license GNU General Public License v3 or later
+ * @copyright (C) 2014  Linuxihaa, linuxihaa.ir
+ * @author Misam Saki,  http://misam.ir/
+ */
+-->
 <ui version="4.0">
  <class>MainWindow</class>
  <widget class="QMainWindow" name="MainWindow">
