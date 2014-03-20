@@ -3,8 +3,6 @@ Text Encoder
 
 Simple Text Encoder By Qt, Version 1.0
 
-Can use for correct subtitle encode
-
 Contents
 ==============================
 
