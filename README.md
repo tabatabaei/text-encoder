@@ -29,7 +29,7 @@ Contents
 2. Screenshots
 ==============================
 
-<img src="https://raw.github.com/misamplus/text-encoder/master/screenshot.png" alt="Text Encoder Screenshot" title="Screenshot" width="596px" height="293px" />
+<img src="https://raw.github.com/misamplus/text-encoder/master/screenshot.png" alt="Text Encoder Screenshot" title="Screenshot" width="526px" height="293px" />
 
 3. Download
 ==============================
