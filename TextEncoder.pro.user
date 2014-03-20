@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 /**
- * The application describtor file
+ * The main window ui describtor file
  *
  * @package Text Encoder
  * @since Text Encoder 1.0
@@ -11,7 +11,7 @@
  */
 -->
 <!DOCTYPE QtCreatorProject>
-<!-- Written by Qt Creator 2.5.0, 2014-03-20T16:21:38. -->
+<!-- Written by Qt Creator 2.5.0, 2014-03-20T16:57:41. -->
 <qtcreator>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
