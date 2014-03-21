@@ -3,6 +3,8 @@ Text Encoder
 
 Simple Text Encoder By Qt, Version 1.0
 
+از این برنامه می‌توان برای تصحیح زیرنویس های فارسی در لینوکس و مک استفاده کرد
+
 Contents
 ==============================
 
@@ -34,7 +36,8 @@ Contents
 3. Download
 ==============================
 
-* #
+* Linux x86_64 (KDE or KDE library) https://raw.github.com/misamplus/text-encoder/master/build/TextEncoder-linux-x86_64
+* Linux i386 (KDE or KDE library) https://raw.github.com/misamplus/text-encoder/master/build/TextEncoder-linux-i386
 
 4. License
 ==============================
