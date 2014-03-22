@@ -36,7 +36,8 @@ Contents
 3. Download
 ==============================
 
-* Linux x86_64 https://github.com/misamplus/text-encoder/raw/master/build/TextEncoder-linux-x86_64
+* Linux x86_64 (x86 64 bit) https://github.com/misamplus/text-encoder/raw/master/build/TextEncoder-linux-x86_64
+* Linux i386 (x86 32 bit) https://github.com/misamplus/text-encoder/raw/master/build/TextEncoder-linux-i386
 
 4. License
 ==============================
